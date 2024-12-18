@@ -1,4 +1,7 @@
-# image-template
+# Chonky Beardy
+
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/chonky-beardy)](https://artifacthub.io/packages/search?repo=chonky-beardy)
+[![build-ublue-custom](https://github.com/beardy-os/chonky-beardy/actions/workflows/build.yml/badge.svg)](https://github.com/beardy-os/chonky-beardy/actions/workflows/build.yml)
 
 ## Purpose
 
