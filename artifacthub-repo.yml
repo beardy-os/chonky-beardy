@@ -8,7 +8,7 @@
 # changed if the `index.yaml` file changes. For git based repositories, it does
 # when the hash of the last commit in the branch you set up changes. This does
 # NOT apply to ownership claim operations, which are processed immediately.
-repositoryID: <your-repository-id-here>
+repositoryID: d6828f40-af5b-4d49-802d-7356aa75eb81
 owners:
-  - name: <your name>
-    email: <your email>
+  - name: Jason DeTiberus
+    email: detiber@gmail.com
